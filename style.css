@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(188, 233, 249);
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    padding: 1px;
+    border-bottom: 3px solid #0975c8;
+}
