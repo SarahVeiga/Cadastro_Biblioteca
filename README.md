@@ -28,7 +28,8 @@ O Controller é responsável pela lógica de controle da aplicação, coordenand
 
 Uma breve e simples coloração para o fundo da página.
 
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/2b238d98-7772-4c78-b6c3-62b12acd2e0d" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/d1157b62-22ff-4bb9-9084-7b87598c1565" />
+
 
 
 
