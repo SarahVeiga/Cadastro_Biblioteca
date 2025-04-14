@@ -24,6 +24,12 @@ A View é responsável pela apresentação dos dados ao usuário. Ela exibe a li
   
 O Controller é responsável pela lógica de controle da aplicação, coordenando a interação entre o Model e a View. Ele recebe os comandos do usuário, manipula os dados no Model e atualiza a View.
 
-<img width="683" alt="image" src="https://github.com/user-attachments/assets/37b96fe5-8cb1-4ced-bd11-3470f38d3ae4" />
+- CSS:
+
+Uma breve e simples coloração para o fundo da página.
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/2b238d98-7772-4c78-b6c3-62b12acd2e0d" />
+
+
 
  
